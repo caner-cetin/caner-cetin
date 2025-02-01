@@ -17,7 +17,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/caner-cetin/caner-cetin/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/caner-cetin/caner-cetin/output/github-snake.svg" alt="Snake animation" />
 
 ###
 
