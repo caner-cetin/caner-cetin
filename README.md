@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://media.tenor.com/aqrVj-YBUucAAAAM/shino-wag.gif"  />
+  <img style="max-width:600px; max-height:600px; width: auto; height: auto;" src="https://media.tenor.com/aqrVj-YBUucAAAAM/shino-wag.gif"  />
 </div>
 
 ###
